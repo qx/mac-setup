@@ -10,6 +10,7 @@ The package we just installed allow us to install different versions of Ruby and
 
     $ rbenv install 2.1.1
     $ rbenv global 2.1.1
+    $ rbenv rehash
 
 Install bundler. Bundler manages an application's dependencies, kind of like a shopping list of other libraries the application needs to work.
 
